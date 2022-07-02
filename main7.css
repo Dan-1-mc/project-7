@@ -1,0 +1,71 @@
+#content{
+    display: flex;
+    justify-content: center;
+    padding: 120px;
+} 
+#words{
+    height: 70vh;
+    width: 25vw;
+    background-color: #fff;
+    box-sizing: border-box;
+    border-radius: 5px;
+    padding: 30px;
+}
+#design>img{
+    display: inline-flex;
+    width: 25vw;
+    height: 70vh;
+    border-radius: 5px;
+}
+#pink{
+    background-color: rgb(248, 232, 238);
+    height: 100vh;
+    width: 100vw;
+    box-sizing: content-box;
+    justify-content: center;
+    padding-left: 60px;
+}
+#pef{
+    text-transform: uppercase;
+    color: gray;
+}
+#french{
+    text-transform: capitalize;
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+#floral{
+    color: gray;
+    width: 17vw;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+#money{
+font-size: 35px ;
+color: rgb(8, 53, 28);
+}
+
+#cancel{
+    text-decoration: line-through;
+    color: gray;
+    margin: 30px;
+    font-size: small;
+}
+#button{
+    background-color: rgb(8, 53, 28);  
+     border-radius: 10px;
+     margin-top: -30px;
+}
+input{
+    background-color: rgb(8, 53, 28);
+    color: #fff;
+    border: 0px;
+    height: 40px;
+    width: 250px;
+    justify-items: center;
+}
+.fa-solid{
+    color: #fff ;
+}
